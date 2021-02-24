@@ -1,0 +1,11 @@
+{
+    "id" : "Nova",
+    "version" : "0.1.0",
+    "displayName" : "Nova Faction",
+    "description" : "Content related to Nova Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
